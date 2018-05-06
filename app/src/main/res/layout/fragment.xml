@@ -13,7 +13,16 @@
         android:id="@id/android:list"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
+
     </ListView>
+
+    <CheckBox
+        android:id="@+id/cbBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </CheckBox>
+
     <TextView
         android:id="@id/android:empty"
         android:layout_width="match_parent"
